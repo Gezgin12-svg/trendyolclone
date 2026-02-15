@@ -43,5 +43,5 @@ Yapılacaklar
  Dark mode desteği
  
  <h2>Ekran Görüntüsü</h2>
- ![](ekran.gif)
+ <img src="ekran.gif">
 Not: Bu proje yalnızca eğitim amaçlı ve geliştirme aşamasındadır
